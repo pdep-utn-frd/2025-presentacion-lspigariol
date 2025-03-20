@@ -2,3 +2,4 @@
 
 Vivo en *Buenos Aires* 
 
+![foto](remera.jpg)
